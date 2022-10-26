@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1614183811 source:c:\users\hp\documents\project\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"prototypes.h"
+
+1613126883 c:\users\hp\documents\project\interface.h
+
+1614184011 source:c:\users\hp\documents\project\jvsj.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1613130983 source:c:\users\hp\documents\project\main.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1614185710 source:c:\users\hp\documents\project\regles.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1614185367 source:c:\users\hp\documents\project\jvsmachine.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1614183535 c:\users\hp\documents\project\prototypes.h
+
+1614187412 source:c:\users\pc\desktop\project\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"prototypes.h"
+
+1614355704 c:\users\pc\desktop\project\prototypes.h
+
+1614433291 source:c:\users\pc\desktop\project\jvsj.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1614435486 source:c:\users\pc\desktop\project\jvsmachine.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1614206919 source:c:\users\pc\desktop\project\main.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1614354760 source:c:\users\pc\desktop\project\regles.c
+	"prototypes.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
